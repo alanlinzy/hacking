@@ -1,0 +1,9 @@
+wireshark
+arp 
+tcp packet
+install samba
+network survilence
+-nmap 
+smbclient 
+
+put the web server 
